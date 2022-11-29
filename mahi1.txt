@@ -1,2 +1,3 @@
 This is 1st line in 1st file  master
 This is 2nd line in 1st file
+THis is 3rd line in 1st file
